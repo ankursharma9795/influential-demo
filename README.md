@@ -1,4 +1,4 @@
 # influential-demo
 This is my first Git Repository.
 <br>
-Author - Influential
+Author - Ankur Sharma
